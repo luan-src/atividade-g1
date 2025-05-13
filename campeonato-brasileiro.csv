@@ -1,4 +1,4 @@
-"ID","rodata","data","hora","mandante","visitante","formacao_mandante","formacao_visitante","tecnico_mandante","tecnico_visitante","vencedor","arena","mandante_Placar","visitante_Placar","mandante_Estado","visitante_Estado"
+"ID","rodada","data","hora","mandante","visitante","formacao_mandante","formacao_visitante","tecnico_mandante","tecnico_visitante","vencedor","arena","mandante_Placar","visitante_Placar","mandante_Estado","visitante_Estado"
 "6404","28","09/10/2018","21:00","Botafogo-RJ","Vasco","4-3-3","4-2-3-1","J. Mannarino","A. Valentim do Carmo Neto","-","Estádio Nilton Santos","1","1","RJ","RJ"
 "6406","29","13/10/2018","17:00","Flamengo","Fluminense","4-2-3-1","3-4-2-1","D. Silvestre Júnior","M. de Oliveira Santos","Flamengo"," Maracanã","3","0","RJ","RJ"
 "6407","29","13/10/2018","19:00","Santos","Corinthians","4-3-3","4-2-3-1","A. Stival","J. Ribeiro Ventura","Santos","Estádio Municipal Paulo Machado de Carvalho","1","0","SP","SP"
